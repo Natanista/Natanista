@@ -14,5 +14,7 @@
 📸 [Instagram](https://www.instagram.com/natanista/) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/natanista/) <br>
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=natanista)](https://github.com/natanista/github-readme-stats)
+
 
 
