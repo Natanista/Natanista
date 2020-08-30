@@ -15,8 +15,7 @@
 💼 [LinkedIn](https://www.linkedin.com/in/natanista/) <br>
 
 ![Natan's github stats](https://github-readme-stats.vercel.app/api?username=natanista&show_icons=true&theme=chartreuse-dark)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=natanista&repo=github-readme-stats)](https://github.com/natanista/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natanista)](https://github.com/Natanista?tab=repositories)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=natanista&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natanista)](https://github.com/Natanista?tab=repositories)
 
 
 
