@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hey, I'm Natan Silva! 👋
+ 
+👨‍💻System Analysis and Development student at [BANDTEC](http://www.digitalschool.com.br/faculdade/)<br>
+🇧🇷 Living in Sao Paulo, Brazil<br>
+🌱 I’m currently learning JavaScript
+ 
+### What I'm working on 👨‍💻
 
-<!--
-**Natanista/Natanista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 [College](https://github.com/Natanista/bandtec_adsb_first_semester) and [personal](https://github.com/Natanista/learning-projects) projects <br>
 
-Here are some ideas to get you started:
+### Find me elsewhere 🌎
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐦 [Twitter](https://twitter.com/natanista) <br>
+📸 [Instagram](https://www.instagram.com/natanista/) <br>
+💼 [LinkedIn](https://www.linkedin.com/in/natanista/) <br>
+
+
+
