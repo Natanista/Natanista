@@ -6,7 +6,7 @@
  
 ### What I'm working on 👨‍💻
 
-🎓 [College](https://github.com/Natanista/bandtec_adsb_first_semester) and [personal](https://github.com/Natanista/learning-projects) projects <br>
+🎓 [College](https://github.com/Natanista/solution) and [personal](https://github.com/Natanista/learning-projects) projects <br>
 
 ### Find me elsewhere 🌎
 
