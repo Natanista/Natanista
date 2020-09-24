@@ -11,7 +11,6 @@
 ### Find me elsewhere 🌎
 
 🐦 [Twitter](https://twitter.com/natanista) <br>
-📸 [Instagram](https://www.instagram.com/natanista/) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/natanista/) <br>
 
 ![Natan's github stats](https://github-readme-stats.vercel.app/api?username=natanista&show_icons=true&theme=chartreuse-dark)
