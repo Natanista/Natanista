@@ -1,6 +1,6 @@
 ### Hey, I'm Natan! 👋
  
-👨‍💻System Analysis and Development student at [BANDTEC](http://www.digitalschool.com.br/faculdade/)<br>
+👨‍💻Estudante de Análise e Desenvolvimento de Sistemas at [BANDTEC](http://www.digitalschool.com.br/faculdade/)<br>
 🇧🇷 Living in Sao Paulo, Brazil<br>
 🌱 I’m currently learning JavaScript
  
