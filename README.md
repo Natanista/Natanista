@@ -6,7 +6,7 @@
  
 ### What I'm working on 👨‍💻
 
-🎓 [College](https://github.com/Natanista/solution) and [personal](https://github.com/Natanista/learning-projects) projects <br>
+🎓 [College](https://github.com/Projeto-PI-Grupo-4/Health-Analytics) and [personal](https://github.com/Natanista/learning-projects) projects <br>
 
 ### Find me elsewhere 🌎
 
