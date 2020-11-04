@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Natan</h1>
-<h3 align="center">A begginer backend developer from Brazil</h3>
+<h3 align="center">System Analysis and Development student from Brazil</h3>
 
 <p align="left"> <a href="https://twitter.com/natanista" target="blank"><img src="https://img.shields.io/twitter/follow/natanista?logo=twitter&style=for-the-badge" alt="natanista" /></a> </p>
 
