@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [college projects](https://github.com/BandTec/Health-Analytics)
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’mlearning **Javascript** :p
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
