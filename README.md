@@ -1,5 +1,5 @@
 <h1 >Hi 👋, I'm Natan</h1>
-<h3>System Analysis and Development student from Brazil</h3>
+<h3>System Analysis and Development student from Brazil<span>&#x1f1e7;&#x1f1f7;</span></h3>
 
 
 - 🔭 I’m currently working on [college projects](https://github.com/BandTec/Health-Analytics)
