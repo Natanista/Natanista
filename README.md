@@ -10,7 +10,6 @@
 <p align="left">
 <a href="https://twitter.com/natanista" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="natanista" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/natanista" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="natanista" height="30" width="40" /></a>
-</p>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/14116423/natan-silva" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/14116423/natan-silva" height="30" width="40" /></a>
 </p>
 
