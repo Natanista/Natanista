@@ -1,4 +1,4 @@
-<h1 align="center">Hi! Olá! Hallo! привет! 👋, I'm Natan</h1>
+<h1 align="center">Hi! 👋, I'm Natan</h1>
 <h3 align="center">System Analysis and Development student from Brazil</h3>
 
 
