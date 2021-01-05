@@ -2,9 +2,13 @@
 <h3>System Analysis and Development student from Brazil <span>&#x1f1e7;&#x1f1f7;</span></h3>
 
 
-- 🔭 I’m currently working on [college projects](https://github.com/BandTec/Health-Analytics)
+- 🔭 Currently working on [personal projects](https://github.com/Natanista/learning-projects)
 
-- 🌱 I’m learning **Javascript** 
+- 🌱 I'm learning **Java** 
+
+- 📱 Mobile Enthusiast
+
+- 📈 personal curiosity: I love to talk about economics, stocks and the financial market
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
