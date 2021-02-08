@@ -2,7 +2,7 @@
 <h3>System Analysis and Development student from Brazil <span>&#x1f1e7;&#x1f1f7;</span></h3>
 
 
-- 🔭 Currently working on [personal projects](https://github.com/Natanista/learning-projects)
+- 🔭 Currently working on [personal and college projects ](https://github.com/Natanista/back-end)
 
 - 🌱 I'm learning **Java**,**.NET** and **mongoDB**
 
