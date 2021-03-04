@@ -4,7 +4,7 @@
 
 - 🔭 Currently working on [personal and college projects ](https://github.com/Natanista/back-end)
 
-- 🌱 I'm learning **Java**,**.NET** and **mongoDB**
+- 🌱 I'm learning **Java** and **mongoDB**
 
 - 📱 Mobile Enthusiast
 
