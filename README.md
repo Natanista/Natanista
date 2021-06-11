@@ -14,7 +14,7 @@ Cloud: Azure & AWS(EC2)
 Tools: Docker, Swagger,
        Jenkins
 Learning: C#, .NET, mongoDB,
-          Spring, 
+          Spring
 Hobbies: Running, Cooking
 Social Media: Natanista
 -------------------------
