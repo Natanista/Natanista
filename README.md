@@ -1,7 +1,7 @@
 ```zsh
 > Hello Friend
 ```
-<img src="https://data.whicdn.com/images/312694971/original.png" align="left" width="360" />
+<img src="https://data.whicdn.com/images/312694971/original.png" align="right" width="380" />
 
 
 ```csharp
