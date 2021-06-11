@@ -4,15 +4,16 @@
 <img src="https://data.whicdn.com/images/312694971/original.png" align="right" width="350" />
 
 
-```csharp
--------------------------------------------
-OS: Ubuntu x86_64
-Location: Sao Paulo, Brazil
-Languages: Java, JavaScript, HTML, CSS, SQL
-Cloud: Azure, AWS(EC2)
-Tools: Docker, Swagger, Jenkins
-Learning: C#, .NET, mongoDB, Spring
-Hobbies: Running, Cooking
-socialMedia: Natanista
-------------------------------------------
+```
+public Natan(){
+this.os = "Ubuntu x86_64";
+this.location = "São Paulo";
+this.languages = new String[]{"Java", "Javascript", "HTML", "CSS", "SQL"};
+this.cloud = new String[]{"Azure", "AWS(EC2)"};
+this.tools = new String[]{"Docker", "Swagger", "Jenkins"};
+this.learning = new String[]{"C#", ".NET", "mongoDB", "Spring"};
+this.hobbies = new String[]{"Running", "Cooking"};
+this.socialMedia = "Natanista";
+}
+-
 ```
