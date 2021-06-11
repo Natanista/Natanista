@@ -1,11 +1,10 @@
 ```zsh
 > Hello Friend
 ```
+<img src="https://i.gifer.com/9wDf.gif" align="left" width="320" />
 
-<img align="left" src="https://i.gifer.com/9wDf.gif" alt="hello-friend" width="320" /> 
 
 ```csharp
-anordinaryusername@github
 -------------------------
 OS: Ubuntu x86_64
 Location: Sao Paulo, Brazil
@@ -17,5 +16,6 @@ Tools: Docker, Swagger,
 Learning: C#, .NET, mongoDB,
           Spring, 
 Hobbies: Running, Cooking
-Social Media: [Linkedin](https://github.com/Natanista/back-end)
+Social Media: Natanista
+-------------------------
 ```
