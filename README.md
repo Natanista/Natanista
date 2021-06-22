@@ -1,7 +1,7 @@
 ```zsh
 > Hello Friend
 ```
-<img src="https://starecat.com/content/wp-content/uploads/im-not-a-robot-recaptcha-fail-mr-robot-tv-series-elliot-alderson.jpg" align="right" width="150" />
+<img src="https://starecat.com/content/wp-content/uploads/im-not-a-robot-recaptcha-fail-mr-robot-tv-series-elliot-alderson.jpg" align="right" width="250" />
 
 
 ```csharp
