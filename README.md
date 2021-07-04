@@ -17,3 +17,6 @@ this.socialMedia = "Natanista";
 }
 
 ```
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natanista&layout=compact)](https://github.com/anatanista/github-readme-stats)
+
